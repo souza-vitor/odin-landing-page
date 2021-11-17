@@ -12,6 +12,8 @@ body{
     align-items: center; */
 }
 
+/*header section*/
+
 .header{
     display: flex;
     flex-direction: column;
@@ -99,7 +101,7 @@ img{
     cursor: pointer;
 }
 
-/*information*/
+/*information section*/
 
 .information{
     display: flex;
@@ -140,3 +142,33 @@ img{
     text-align: center;
     color: #1f2937;
 }
+
+/*testimonial section*/
+
+.testimonial{
+    background: #e5e7eb;
+    color: #1f2937;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.quote{
+    width: 700px;
+    font-size: 36px;
+    text-align: left;
+    font-weight: 300;
+}
+
+.right{
+    width: 650px;
+    text-align: right;
+    font-weight: 700;
+}
+
+
+
+
+
