@@ -168,6 +168,48 @@ img{
     font-weight: 700;
 }
 
+/*cta section*/
+.cta{
+    padding: 40px;
+    display: flex;
+    align-self: center;
+}
+
+.cta-box{
+    background: #3882F6;
+    border-radius: 5px;
+    color: white;
+    width: 750px;
+    height: 100px;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.sign-2{
+    padding: 5px 20px;
+    text-align: center;
+    background-color: #3882F6;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+/*footer*/
+
+footer{
+    background: #1f2937;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+
+
 
 
 
